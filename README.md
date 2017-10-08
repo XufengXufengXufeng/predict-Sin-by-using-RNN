@@ -1,5 +1,5 @@
 # predict-Sin-by-using-RNN
-use a simple RNN to predict time series data (sin). Show a dynamic way of trying with different activators and optimizers.
+This is a simple RNN to predict time series data (sin). It shows a dynamic way of trying with different activators and optimizers.
 
 * time series data is widely used in data analysis. The ability to predict along the time series is one of the main goals of analyzing time series data.
 
