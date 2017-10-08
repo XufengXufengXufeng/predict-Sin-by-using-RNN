@@ -5,6 +5,6 @@ use a simple RNN to predict time series data (sin). Show a dynamic way of trying
 
 * Recurrent neruo network is one of the most advanced algorithm to analyze time series data. 
 
-* Here a long and short term memory recurrent neruo network is built using tflearn on top of tensorflow. 
+* Here is a simple long-short term memory recurrent neruo network is built using tflearn on top of tensorflow to predict sin. 
 
 * it is dynamic and can be applied to similar situations, such as sales predict, with little changes.
