@@ -1,4 +1,4 @@
-# predict-Sine-by-using-RNN
+# predict-Sine-with-RNN
 This is a simple RNN to predict time series data (sine). It shows a dynamic way of trying with different activators and optimizers.
 
 * Time series data analysis is a popular data analysis area. The ability to predict along the time series is one of the main goals of analyzing time series data.
